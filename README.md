@@ -39,12 +39,12 @@ Explore comprehensive documentation, code examples, and integration guides for o
 - Optimizing performance for large-scale video processing
 - Supporting emerging social media platforms
 
----
-
-⭐ **Interested in video download solutions?** Check out my repositories and don't forget to star the ones you find useful!
-
 ## API available on RapidAPI
 
 [https://rapidapi.com/valsuttlej53/api/youtube-info-download-api](https://rapidapi.com/valsuttlej53/api/youtube-info-download-api)
+
+---
+
+⭐ **Interested in video download solutions?** Check out my repositories and don't forget to star the ones you find useful!
 
 > *"Making video content accessible, one download at a time."*
