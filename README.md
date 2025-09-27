@@ -14,11 +14,9 @@ We are specialize in creating **powerful APIs and templates** for downloading vi
 - **REST API frameworks**: Scalable backend solutions for video processing
 
 
-## 📚 API Documentation
-
-🔗 **Complete API Reference**: [video-download-api.com](https://video-download-api.com/)
-
-Explore comprehensive documentation, code examples, and integration guides for our video download APIs.
+## 🌐 Live Services
+- 📱 **API Endpoint**: [video-download-api.com](https://video-download-api.com)
+- 📚 **RapidAPI**: [YouTube Info Download API](https://rapidapi.com/valsuttlej53/api/youtube-info-download-api)
 
 ## 🌟 Key Features
 
@@ -38,10 +36,6 @@ Explore comprehensive documentation, code examples, and integration guides for o
 - Developing templates for rapid application development
 - Optimizing performance for large-scale video processing
 - Supporting emerging social media platforms
-
-## API available on RapidAPI
-
-[https://rapidapi.com/valsuttlej53/api/youtube-info-download-api](https://rapidapi.com/valsuttlej53/api/youtube-info-download-api)
 
 ---
 
