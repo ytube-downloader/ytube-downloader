@@ -39,7 +39,7 @@ We are specialize in creating **powerful APIs and templates** for downloading vi
 
 ## ✉️ Contact Us
 
-- Email AddressL (sp_golubev@protonmail.com)[mailto:sp_golubev@protonmail.com]
+- Email AddressL sp_golubev@protonmail.com
 
 ---
 
